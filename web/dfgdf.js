@@ -1,5 +1,5 @@
 function init() {
-    //sdfsdf
+    console.log("fdsfsdf");
 }
 
 init();
