@@ -1,1 +1,2 @@
-console.log("adasf", 55)
+console.log("adasf", 55);
+
